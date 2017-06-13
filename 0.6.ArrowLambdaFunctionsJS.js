@@ -20,6 +20,7 @@ console.log(increment(6));
 
 let incrementTwo = x => ++x;
 console.log(incrementTwo(6));
+console.log(incrementTwo(7));
 
 ////////////////////////////////////////////primer 3:
 let sum = (a, b)=> a + b;
